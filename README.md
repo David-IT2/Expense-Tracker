@@ -1,4 +1,7 @@
-***Expense Tracker
+
+Expense Tracker
+
+
 **A simple command-line expense tracker application that allows users to add, view, and analyze their expenses.
 
 Features
